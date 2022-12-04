@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿ using System.Text;
 using StringManipulationCodeChallenge;
 
 Console.Write("Enter the string to encode: ");

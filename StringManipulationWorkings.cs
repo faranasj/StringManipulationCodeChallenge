@@ -50,9 +50,9 @@ namespace StringManipulationCodeChallenge
             }
             encoded = newSecondString + newFirstString;
             
-            Console.WriteLine(encoded);
-            
-            Console.WriteLine(newFirstString + newSecondString);
+            Console.WriteLine(newSecondString);
+            Console.WriteLine(newFirstString);
+            Console.WriteLine($"Here's your string encoded:\n{encoded}");
 
             StringBuilder strBuild = new StringBuilder(encoded);
             int decodedFirstStrLen = strBuild.Length/2;
@@ -64,6 +64,7 @@ namespace StringManipulationCodeChallenge
             string[] decodedResult = new string[]
             {new string(decodedFirstStr), new string(decodedSecondStr)};
 
+            Console.WriteLine("Here's your encoded string decoded:");
             foreach(string res in decodedResult)
             {
                 Console.Write(res);
