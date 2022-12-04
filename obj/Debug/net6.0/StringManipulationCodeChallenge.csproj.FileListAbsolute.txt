@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\bin\Debug\net6.0\StringManipulationCodeChallenge.exe
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\bin\Debug\net6.0\StringManipulationCodeChallenge.deps.json
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\bin\Debug\net6.0\StringManipulationCodeChallenge.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\bin\Debug\net6.0\StringManipulationCodeChallenge.dll
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\bin\Debug\net6.0\StringManipulationCodeChallenge.pdb
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.dll
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\refint\StringManipulationCodeChallenge.dll
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.pdb
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\StringManipulationCodeChallenge.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\StringManipulationCodeChallenge\obj\Debug\net6.0\ref\StringManipulationCodeChallenge.dll
